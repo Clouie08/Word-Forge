@@ -21,7 +21,7 @@ class Word {
   +direction
 }
 
-class EditorController {
+class Editor {
   +placeLetter()
   +toggleBlock()
   +savePuzzle()
